@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source helpdesk ticketing system osTicket.<br />
+Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial series. Part 1 outlines the prerequisites and installation steps for the open-source helpdesk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -238,5 +238,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>	
 
 
-You have now completed the first part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.
-- Click [here](https://github.com/RoslyndWilliams/osTicket--Post-Install-Configuration) to move on to Part 2 of this three-part tutorial series
+🎉Congratulations! You have installed osTicket successfully!🎉 You have now completed the first part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.
+- Click [here](https://github.com/RoslyndWilliams/osTicket--Post-Install-Configuration) to move on to Part 2 of this three-part tutorial series.
